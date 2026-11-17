@@ -82,8 +82,6 @@ Atualmente, busco minha primeira oportunidade de estágio na área de tecnologia
 
 <img src="https://img.shields.io/badge/SQL-101C35?style=for-the-badge&logo=mysql&logoColor=38BDF8"/>
 <img src="https://img.shields.io/badge/POWER%20BI-101C35?style=for-the-badge&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/EXCEL-101C35?style=for-the-badge&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/TABLEAU-101C35?style=for-the-badge"/>
 
 </div>
 
