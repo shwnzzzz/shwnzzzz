@@ -137,7 +137,7 @@ Cardápio digital com apresentação de pratos e experiência responsiva.
 
 <br><br>
 
-<a href="https://shwnzzzz.github.io/MenuGo-ProjectShw/"><img src="https://img.shields.io/badge/LIVE%20DEMO-007BFF?style=flat-square"/></a>
+<a href="https://shwnzzzz.github.io/MenuGo-ProjectShw/"><img src="https://img.shields.io/badge/VISUALIZAR-007BFF?style=flat-square"/></a>
 <a href="https://github.com/shwnzzzz/MenuGo-ProjectShw"><img src="https://img.shields.io/badge/CODE-101C35?style=flat-square&logo=github"/></a>
 
 </td>
@@ -157,7 +157,7 @@ Dashboard financeiro para controle de movimentações, despesas e metas.
 
 <br><br>
 
-<a href="https://shwnzzzz.github.io/NexoraFinance-ProjectShw/"><img src="https://img.shields.io/badge/LIVE%20DEMO-007BFF?style=flat-square"/></a>
+<a href="https://shwnzzzz.github.io/NexoraFinance-ProjectShw/"><img src="https://img.shields.io/badge/VISUALIZAR-007BFF?style=flat-square"/></a>
 <a href="https://github.com/shwnzzzz/NexoraFinance-ProjectShw"><img src="https://img.shields.io/badge/CODE-101C35?style=flat-square&logo=github"/></a>
 
 </td>
@@ -179,7 +179,7 @@ Plataforma de viagens com destinos, pacotes e animações interativas.
 
 <br><br>
 
-<a href="https://shwnzzzz.github.io/AeroFly-ProjectShw/"><img src="https://img.shields.io/badge/LIVE%20DEMO-007BFF?style=flat-square"/></a>
+<a href="https://shwnzzzz.github.io/AeroFly-ProjectShw/"><img src="https://img.shields.io/badge/VISUALIZAR-007BFF?style=flat-square"/></a>
 <a href="https://github.com/shwnzzzz/AeroFly-ProjectShw"><img src="https://img.shields.io/badge/CODE-101C35?style=flat-square&logo=github"/></a>
 
 </td>
@@ -199,7 +199,7 @@ Locadora de veículos premium com visualização 3D e reservas demonstrativas.
 
 <br><br>
 
-<a href="https://shwnzzzz.github.io/Apexsports_Locadora-ProjectShw/"><img src="https://img.shields.io/badge/LIVE%20DEMO-007BFF?style=flat-square"/></a>
+<a href="https://shwnzzzz.github.io/Apexsports_Locadora-ProjectShw/"><img src="https://img.shields.io/badge/VISUALIZAR-007BFF?style=flat-square"/></a>
 <a href="https://github.com/shwnzzzz/Apexsports_Locadora-ProjectShw"><img src="https://img.shields.io/badge/CODE-101C35?style=flat-square&logo=github"/></a>
 
 </td>
@@ -221,7 +221,7 @@ Petshop digital com catálogo, serviços e agendamentos.
 
 <br><br>
 
-<a href="https://shwnzzzz.github.io/Meupet-ProjectShw/"><img src="https://img.shields.io/badge/LIVE%20DEMO-007BFF?style=flat-square"/></a>
+<a href="https://shwnzzzz.github.io/Meupet-ProjectShw/"><img src="https://img.shields.io/badge/VISUALIZAR-007BFF?style=flat-square"/></a>
 <a href="https://github.com/shwnzzzz/Meupet-ProjectShw"><img src="https://img.shields.io/badge/CODE-101C35?style=flat-square&logo=github"/></a>
 
 </td>
@@ -241,7 +241,7 @@ Loja virtual de tênis esportivos com experiência interativa em 3D.
 
 <br><br>
 
-<a href="https://github.com/shwnzzzz/SneakUp-Project"><img src="https://img.shields.io/badge/EXPLORE-007BFF?style=flat-square"/></a>
+<a href="https://github.com/shwnzzzz/SneakUp-Project"><img src="https://img.shields.io/badge/VISUALIZAR-007BFF?style=flat-square"/></a>
 <a href="https://github.com/shwnzzzz/SneakUp-Project"><img src="https://img.shields.io/badge/CODE-101C35?style=flat-square&logo=github"/></a>
 
 </td>
@@ -280,7 +280,7 @@ Loja virtual de tênis esportivos com experiência interativa em 3D.
 <tr>
 <td width="25%" align="center">
 
-<img width="65" src="https://festivalmesdafotografia.com.br/wp-content/uploads/2023/07/UCB.png"/>
+<img width="85%" src="https://festivalmesdafotografia.com.br/wp-content/uploads/2023/07/UCB.png"/>
 
 </td>
 <td width="75%">
